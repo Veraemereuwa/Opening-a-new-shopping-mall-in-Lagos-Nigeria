@@ -1,2 +1,2 @@
 # Opening a new shopping-mall-in-Lagos
-Lagos is one of the major commercial cities in Nigeria and Africa at large. The main aim of this project is to predict perfect locations for a new shopping mall in Lagos, Nigeria
+This is my final project for The IBM Data Science Professional Course, and I have decided to explore the shopping malls in Lagos and predict a perfect location for opening a new shopping mall.
