@@ -1,2 +1,2 @@
 # Opening a new shopping-mall-in-Lagos
-This is my final project for The IBM Data Science Professional Course, and I have decided to explore the neighbourhoods in Lagos and predict a perfect location for opening a new shopping mall.
+This is my final project for The IBM Data Science Professional Course, and I have decided to explore the neighbourhoods in Lagos and predict a perfect location for opening a new shopping mal using KMeans clustering. 
